@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1628356410 source:c:\users\nowshad\desktop\c++\librarymangementsystem\home.cpp
+	"Home.h"
+	<iostream>
+	<sstream>
+
+1628368126 c:\users\nowshad\desktop\c++\librarymangementsystem\home.h
+	<iostream>
+	<string>
+
+1628368126 source:c:\users\nowshad\desktop\c++\librarymangementsystem\main.cpp
+	<iostream>
+	"Home.h"
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<windows.h>
+
+1628418530 source:c:\users\nowshad\desktop\c++\librarymangementsystem\updateinformation.cpp
+	"Home.h"
+	<iostream>
+
+1629249617 source:c:\users\nowshad\desktop\c++\librarymangementsystem\brrowbooks.cpp
+	"Home.h"
+	<iostream>
+	<ctime>
+	<sstream>
+
+1626972935 source:c:\users\nowshad\desktop\c++\librarymangementsystem\patronborrowfriction.cpp
+	"Home.h"
+	<iostream>
+
+1626971574 source:c:\users\nowshad\desktop\c++\librarymangementsystem\fantasysciencepatron.cpp
+	"Home.h"
+	<iostream>
+
+1628360935 source:c:\users\nowshad\desktop\c++\librarymangementsystem\addbook.cpp
+	"Home.h"
+	<iostream>
+
+1629248010 source:c:\users\nowshad\desktop\c++\librarymangementsystem\viewbook.cpp
+	"Home.h"
+	<iostream>
+
+1629249617 source:c:\users\nowshad\desktop\c++\librarymangementsystem\patronborrownonfiction.cpp
+	"Home.h"
+	<iostream>
+	<ctime>
+
+1628368126 source:c:\users\nowshad\desktop\c++\librarymangementsystem\activebookspatron.cpp
+	"Home.h"
+	<iostream>
+
+1628149489 source:c:\users\nowshad\desktop\c++\librarymangementsystem\removepatron.cpp
+	"Home.h"
+	<iostream>
+
+1628369471 source:c:\users\nowshad\desktop\c++\librarymangementsystem\returnbookspatron.cpp
+	"Home.h"
+	<iostream>
+
+1628358355 source:c:\users\nowshad\desktop\c++\librarymangementsystem\requestextensionpatron.cpp
+	"Home.h"
+	<iostream>
+
+1628370283 source:c:\users\nowshad\desktop\c++\librarymangementsystem\searchpatron.cpp
+	"Home.h"
+	<iostream>
+
+1627084540 source:c:\users\nowshad\desktop\c++\librarymangementsystem\patronborrowfic.cpp
+	"Home.h"
+	<iostream>
+	<ctime>
+	<sstream>
+
+1628362082 source:c:\users\nowshad\desktop\c++\librarymangementsystem\searchbookbycategory.cpp
+	"Home.h"
+	<iostream>
+
+1628355981 source:c:\users\nowshad\desktop\c++\librarymangementsystem\updatebookinfo.cpp
+	"Home.h"
+	<iostream>
+
+1628365114 source:c:\users\nowshad\desktop\c++\librarymangementsystem\borrowbookspa.cpp
+	"BorrowBookspa.h"
+	"Home.h"
+	<iostream>
+	<ctime>
+	<sstream>
+
+1628364889 c:\users\nowshad\desktop\c++\librarymangementsystem\borrowbookspa.h
+
